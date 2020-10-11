@@ -43,6 +43,7 @@ do
                     9 ) 
                         clear
                         echo "Selamat Tinggal"
+                        echo "Tunggu 5 Detik..."
                         sleep 5
                         clear
                     ;;
