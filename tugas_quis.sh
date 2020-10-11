@@ -31,10 +31,12 @@ do
                         echo " "
                     ;;
                     2 )
+                        clear
                         echo "User Saat Ini : $USER ";
                         echo " "
                     ;;
                     3 )
+                        clear
                         echo "Host Name Saat Ini : "; hostname
                         echo " "
                     ;;
